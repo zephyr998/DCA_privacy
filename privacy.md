@@ -2,8 +2,6 @@
 
 **App:** DCA — Strategy Backtester
 **Effective date:** 2026-04-26
-**Contact:** coolkid1998998@gmail.com
-
 ## Summary
 
 DCA does not collect, store, or transmit any personal data. Everything you do in the app stays on your device.
@@ -52,7 +50,3 @@ Because we collect no data, there is nothing for you to access, export, correct,
 ## Changes to this policy
 
 If this policy ever changes, the new version will be published in this file alongside the date it took effect. Material changes will also be reflected in the App Store listing for the next app release.
-
-## Contact
-
-Questions about this policy can be sent to coolkid1998998@gmail.com.
